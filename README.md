@@ -28,7 +28,7 @@ Evaluate the efficiency and performance of a customer call center.
 - Number of calls handled per agent
 - Peak call hours
 
-**Tools Used:** Power BI, DAX
+**Tools Used:** Power BI,DAX,Excel
 
 ---
 
@@ -42,7 +42,7 @@ Analyze Dominos sales and customer behavior to improve business strategy.
 - Average order value
 - Popular pizza categories
 
-**Tools Used:** Power BI, DAX, Excel
+**Tools Used:** Power BI,DAX,Excel
 
 ---
 
@@ -56,7 +56,7 @@ Understand Paytm's transaction trends and customer usage patterns.
 - User demographics
 - Service usage comparison (Recharge, Shopping, etc.)
 
-**Tools Used:** Power BI, DAX
+**Tools Used:** Power BI,DAX,Excel
 
 ---
 
@@ -64,5 +64,19 @@ Understand Paytm's transaction trends and customer usage patterns.
 Each `.pbix` file contains a working Power BI dashboard that you can open using Power BI Desktop.
 
 ---
+Amazon Sales Report
+**Objective:**  The Amazon Sales Dashboard is designed to provide a comprehensive overview of sales performance, profitability, and quantity sold over different time periods, 
+regions, product categories, and customer segments.
+**Key Insights:**
+--Total Sales
+--Total Profit
+--Total Quantity Sold
+--Top Performing Region
+--Sales by Month
+--Sales by Category
+--Profit by Customer
+--Time filters available for years (2012 to 2016)
+--Slicers for Country and Sub-Category
 
+**Tools Used:** Power BI,DAX,Excel
 
